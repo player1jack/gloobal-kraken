@@ -1,2 +1,1 @@
 gloobal-kraken
-ok stop
